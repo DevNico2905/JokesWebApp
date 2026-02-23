@@ -1,0 +1,45 @@
+## Identificadores de compilación
+bin/
+obj/
+
+## Carpetas de publicación
+publish/
+store/
+
+## Archivos de usuario y configuración local
+*.user
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+UserSecrets/
+
+## Visual Studio & VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Paquetes NuGet
+*.nupkg
+# La carpeta de paquetes suele restaurarse, no se sube
+packages/
+# Excluir la caché global de NuGet si está en el root
+node_modules/
+
+## Base de Datos
+*.mdf
+*.ldf
+*.sdf
+*.db
+*.db-shm
+*.db-wal
+
+## Sistema Operativo
+.DS_Store
+Thumbs.db
+
+## Reportes y Logs
+*.log
+TestResults/

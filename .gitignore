@@ -1,3 +1,4 @@
+-- Active: 1771685086751@@localhost@1433@master
 ## Identificadores de compilación
 bin/
 obj/
@@ -43,3 +44,4 @@ Thumbs.db
 ## Reportes y Logs
 *.log
 TestResults/
+.fake
